@@ -1,0 +1,4 @@
+{
+    "SlashErrorTitle": "Oops...",
+    "SlashErrorDesc": "It looks like an error occurred while executing this slash command detailed information has already been sent to the developers."
+}

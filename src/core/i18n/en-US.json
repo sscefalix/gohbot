@@ -1,0 +1,6 @@
+{
+  "BAN_COMMAND_DESCRIPTION": "Ban specific member",
+  "BAN_COMMAND_NAME": "ban",
+  "MENU_COMMAND_DESCRIPTION": "Command for setting up a bot without a website",
+  "MENU_COMMAND_NAME": "menu"
+}

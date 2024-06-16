@@ -1,0 +1,11 @@
+SQLAlchemy~=2.0.21
+python-dotenv~=1.0.0
+disnake~=2.9.1
+loguru~=0.7.2
+Jinja2~=3.1.2
+pytz~=2023.3.post1
+aiohttp~=3.8.5
+pynput~=1.7.6
+keyboard~=0.13.5
+redis~=5.0.1
+aiomysql~=0.2.0

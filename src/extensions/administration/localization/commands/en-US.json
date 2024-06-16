@@ -1,0 +1,85 @@
+{
+  "setupMenuTitle": "Settings Menu",
+  "setupMenuDescription": "Select the module you are interested from the drop-down list to configure its parameters",
+
+  "Menu_AutoModTitle": "Auto-Moderation",
+  "Menu_AutoModDesc": "Employ our filters to check the content that your users post",
+
+  "AutoModGuideTitle": "Auto-Moderation configuration",
+  "AutoModGuideDesc": "Customize auto-moderation by using the options provided below",
+
+  "AutoModFilters": "Filters",
+  "AutoModPunishment": "Punishment",
+  "AutoModWhitelist": "Whitelist",
+  "AutoModNotify": "Notifications",
+
+  "AutoModFiltersDesc": "Employ our filters to check the content that your users post",
+  "AutoModFiltersFooter": "You can read more about filters by clicking the button with a question mark ",
+  "AutoModPunishmentDesc": "Choose the penalty users should get for each detection by the filter using the interactions below",
+  "AutoModPunishmentSucc": "A new type of punishment in auto-moderation was successfully installed",
+  "AutoModWhitelistDesc": "Include or exclude a role to be considered by our filters",
+  "AutoModNotifyDesc": "Select a channel to receive notifications about users violations using the interactions below",
+ 
+  "AutoModFilter_SymbolsTitle": "Symbols",
+  "AutoModFilter_SymbolsDesc": "Scans the message for any non-visible and potentially malicious characters",
+
+  "AutoModFilter_RepeatTitle": "Repeat",
+  "AutoModFilter_RepeatDesc": "Helps eliminate spam by detecting duplicate messages",
+  
+  "AutoModFilter_MentionTitle": "Mentions",
+  "AutoModFilter_MentionDesc": "Restricts the count of user mentions allowed in repeated messages",
+
+  "AutoModFilter_LinksTitle": "Links",
+  "AutoModFilter_LinksDesc": "Blocks the sharing of unauthorized links by users",
+
+  "AutoModFilter_InviteTitle": "Invite",
+  "AutoModFilter_InviteDesc": "Blocks unwelcome promotional content by detecting invite links to other servers",
+
+  "AutoModFilter_MediaTitle": "Media",
+  "AutoModFilter_MediaDesc": "Blocks unwanted and suspicious files such as archives and programs",
+
+  "AutoModFilter_EmojiTitle": "Emoji",
+  "AutoModFilter_EmojiDesc": "Restricts the count of emoji allowed in the message",
+  
+  "AutoModPunishment_CurrentTitle": "Current punishment: ",
+
+  "AutoModPunishment_DeleteTitle": "No Punishment",
+  "AutoModPunishment_DeleteDesc": "Delete the message without punishments",
+
+  "AutoModPunishment_WarnTitle": "Warn",
+  "AutoModPunishment_WarnDesc": "Deletes the message and provides a warn to the user",
+
+  "AutoModPunishment_KickTitle": "Kick",
+  "AutoModPunishmnet_KickDesc": "Deletes the message and kicks the user from the server",
+
+  "AutoModPunishment_BanTitle": "Ban",
+  "AutoModPunishment_BanDesc": "Deletes the message and bans the user on the server",
+
+  "AutoModWhitelist_Add": "Add",
+  "AutoModWhitelist_AddDesc": "Using the interactions below you can add a channel/role to the auto-moderation ignore list",
+  "AutoModWhitelist_Remove": "Remove",
+  "AutoModWhitelist_RemoveDesc": "Using the interactions below you can remove a channel / role from the ignore list of auto-moderation",
+  "AutoModWhitelist_RoleListTitle": "Role list",
+  "AutoModWhitelist_RoleListDesc": "Current list of roles that bypass all auto-moderation rules",
+  "AutoModWhitelist_ChannelListTitle": "Channel list",
+  "AutoModWhitelist_ChannelListDesc": "Current list of channels where all auto-moderation rules do not apply",
+
+  "AutoModWhitelist_RoleAddExist": "This role is already on the auto-moderation ignore list",
+  "AutoModWhitelist_RoleAddSucc": "You have successfully added a role to the ignore list",
+  "AutoModWhitelist_RoleRemoveExist": "The role you selected is not on the auto-moderation ignore list",
+  "AutoModWhitelist_RoleRemoveSucc": "The role was successfully removed from the auto-moderation ignore list",
+
+  "AutoModWhitelist_ChannelAddExist": "This channel is already on the auto-moderation ignore list",
+  "AutoModWhitelist_ChannelAddSucc": "You have successfully added the channel to the ignore list by the auto-moderation system",
+  "AutoModWhitelist_ChannelRemoveExist": "The channel you selected is not on the auto-moderation ignore list",
+  "AutoModWhitelist_ChannelRemoveSucc": "The channel has been removed from the auto-moderation ignore list",
+  
+  "AutoModWhitelist_RoleErr": "An error occurred, you must have selected the role @everyone the developers have been notified of a possible problem",
+  "AutoModWhitelist_ChannelErr": "An error occurred, you may have selected a category rather than a text channel, try again.",
+
+  "AutoModWhitelist_RoleEmpty": "The list of ignored roles is empty",
+  "AutoModWhitelist_ChannelEmpty": "The list of ignored channels is empty",
+
+  "AutoModNotifySucc": "You have successfully set up a new channel for auto-moderation notifications",
+  "AutoModNotifyErr": "The channel you selected does not exist or there may have been an error about which the developers were notified"
+}
